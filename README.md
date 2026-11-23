@@ -111,6 +111,6 @@ GitHub-Stats-Extended aims to be fully compatible with github-readme-stats. For 
 
 The [card wizard](https://github-stats-extended.vercel.app/frontend) offers some essential customization options. For more advanced customization and other project info check out the [documentation](https://github-stats-extended.vercel.app/frontend/docs/cards/stats/).
 
-## Acknowledgements
+## Acknowledgements 
 
 This project is based on [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). The card wizard is based on [GitHub Trends](https://github.com/avgupta456/github-trends). Big thanks to [@anuraghazra](https://github.com/anuraghazra), [@avgupta456](https://github.com/avgupta456), [@rickstaa](https://github.com/rickstaa), [@qwerty541](https://github.com/qwerty541) and everyone else who worked on these projects! ❤️
